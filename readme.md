@@ -17,6 +17,26 @@ Contact: 1000slow@gmail.com
 
 <details>
 
+<summary>Autodoc News App</summary>
+
+- [Tasks](https://www.w3.org/standards/)
+- [**Code**](https://github.com/baymran/nx-news-app)
+- [Deployment](https://anna001.pythonanywhere.com/admin/)
+
+</details>
+
+<details>
+
+<summary>Identity documents API</summary>
+
+- [Tasks](https://www.w3.org/standards/)
+- [**Code**](https://github.com/baymran/django-docs-api)
+- [Deployment](https://anna001.pythonanywhere.com/admin/)
+
+</details>
+
+<details>
+
 <summary>Signup & Login API</summary>
 
 - [Tasks](https://www.w3.org/standards/)
